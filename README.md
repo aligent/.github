@@ -1,3 +1,3 @@
-***Creating the world's best eCommerce experiences for great brands.***
+# Aligent Code of Conduct
 
-We are commited to the open source community and along with our own modules we support [The PHP Foundation](https://thephp.foundation/).
+This repository contains the standard [Code of Conduct](./CODE_OF_CONDUCT.md), [contribution guide](./CONTRIBUTING.md), and [pull request template](./pull_request_template.md) for Aligent open source projects.
