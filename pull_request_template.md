@@ -1,17 +1,29 @@
-**Description of the proposed changes**
+## Description of the proposed changes
 
-**Screenshots (if applicable)**
+### Context
 
-**Other solutions considered (if any)**
+Why this PR is needed.
 
-**Notes to PR author**
+### Changes
 
-⚠️ Please make sure the changes adhere to the guidelines mentioned in our [contribution guide](https://github.com/aligent/.github/blob/main/CONTRIBUTING.md).
+Intro and bullet point list of changes.
 
-**Notes to reviewers**
+### Test
 
-ℹ️ When you've finished leaving feedback, please add a final comment to the PR tagging the author, letting them know that you have finished leaving feedback
+How to test this PR during a code review session.
 
-**Time Tracking**
+## Screenshots (if applicable)
 
-ABC-xxx: code review, select project XXXX
+## Other solutions considered (if any)
+
+## Notes to PR author
+
+- ⚠️ Please make sure the changes adhere to the guidelines mentioned in our [contribution guide](https://github.com/aligent/.github/blob/main/CONTRIBUTING.md).
+
+## Notes to reviewers
+
+- ℹ️ When you've finished leaving feedback, please add a final comment to the PR tagging the author, letting them know that you have finished leaving feedback
+
+## Time Tracking
+
+- `ABC-xxx: code review`, select project `XXXX`
