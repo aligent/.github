@@ -18,7 +18,7 @@ How to test this PR during a code review session.
 
 ## Notes to PR author
 
-- ⚠️ Please make sure the changes adhere to the guidelines mentioned in our contribution guide.
+- ⚠️ Please make sure the changes adhere to the guidelines mentioned in our [contribution guide](https://github.com/aligent/.github/blob/main/CONTRIBUTING.md).
 
 ## Notes to reviewers
 
